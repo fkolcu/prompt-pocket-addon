@@ -7,7 +7,7 @@ your productivity and stay organized with ease!
 ### Supported Browsers
 
 - [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/prompt-pocket/)
-- Google Chrome (coming soon)
+- [Google Chrome](https://chromewebstore.google.com/detail/prompt-pocket/jkjpelakpihggamclfbfclpnblibnank)
 
 ### Feature Requests & Reporting Issues
 
